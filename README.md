@@ -1,7 +1,7 @@
 # Adaptive-Music-Therapy
 Revolutionizing emotion-based music therapy with a multi-modal system for real-time emotion analysis and personalized music recommendations.
 
-Description:
+# Description:
 Current emotion analysis systems often fall short in providing real-time recognition, resulting in ineffective recommendations and limited user engagement. To overcome these challenges, we are introducing a groundbreaking multi-modal emotion analysis system that leverages voice, image, and heartbeat data for precise emotion assessment. This innovative approach allows users to provide text input in case of any misinterpreted emotions, ensuring accuracy and user satisfaction.
 
 Our primary objective is to develop a custom model capable of recommending music or beats tailored to users' specific emotions. Users will have the flexibility to either listen to recommended music or generate personalized beats based on the custom model's suggestions, providing a truly immersive and personalized music therapy experience.
